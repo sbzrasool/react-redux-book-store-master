@@ -25,8 +25,4 @@ npm run dev
 
 ## Authors
 
-* **Anton Ayvarov** - *Frontend developer* - [ayvaroff](https://github.com/ayvaroff)
-
-## License
-
-This project is unlicensed.
+* **Shahbaz Rasool** - *Frontend developer* 
